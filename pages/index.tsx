@@ -1,8 +1,7 @@
 import Head from 'next/head';
 import Image from 'next/image';
 import styles from '../styles/Home.module.css';
-
-export let a = {
+export const a = {
   b: 'a',
   d: 'c',
   g: 'a 2',
